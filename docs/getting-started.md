@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+" :tada: Hurray you just made your first pull request :tada: "
+;
+" :tada:  :tada:  Way to go ! Your just made your first Issue :sparkles: "
